@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+*.log
+
+# Training data (Kaggle CSV — large files / licensing)
+data/
+!data/.gitkeep
+
+# Trained model weights (large files)
+models/
+
+# Saved tokenizer files (re-downloadable from Hugging Face)
+tokenizer/
+
+# Hugging Face cache
+/tmp/hf_cache/
+
+# Environment variables / secrets
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
