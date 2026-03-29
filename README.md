@@ -20,6 +20,8 @@ pip install -r requirements.txt
 python app.py
 # Open http://127.0.0.1:7860 in your browser
 ```
+> [!NOTE]
+> When running this for the first time, tokenizer and weights will be downloaded, therefore it will take longer.
 
 ### Try the Live Demo
 **[Launch Interactive Demo](https://huggingface.co/spaces/ThomasTschinkel/fake-news-detector-demo)**
