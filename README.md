@@ -1,3 +1,8 @@
+[![HuggingFace](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/ThomasTschinkel/fake-news-detector)
+[![Demo](https://img.shields.io/badge/🚀-Live%20Demo-blue)](https://huggingface.co/spaces/ThomasTschinkel/fake-news-detector-demo)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
+
 # Fake News Detector
 
 A high-accuracy binary classifier that identifies news articles as **REAL** or **FAKE**, built on fine-tuned **RoBERTa-Large** with a custom dual-pooling classification head.
